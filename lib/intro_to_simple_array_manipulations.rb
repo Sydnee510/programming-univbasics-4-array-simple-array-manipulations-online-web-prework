@@ -20,4 +20,6 @@ end
 
 def shift_with_args(array)
   array.shift(2)
-end  
+end 
+
+def using_using
